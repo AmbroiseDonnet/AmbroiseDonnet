@@ -98,26 +98,6 @@ Les tutos YouTube à 2h du mat font partie de la méthode. ✔️
 <div align="center">
 
 ```
-  ⋆｡°✩  Stats  ✩°｡⋆
-```
-
-</div>
-
-### 📊 Mon activité
-
-<div align="center">
-
-![Ambroise's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmbroiseDonnet&show_icons=true&theme=midnight-purple&hide_border=true&title_color=c792ea&icon_color=c792ea&text_color=cdd6f4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbroiseDonnet&layout=compact&theme=midnight-purple&hide_border=true&title_color=c792ea&text_color=cdd6f4)
-
-</div>
-
----
-
-<div align="center">
-
-```
   ⋆｡°✩  Me trouver  ✩°｡⋆
 ```
 

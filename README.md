@@ -3,7 +3,7 @@
 <div align="center">
 
  ═══════════════════════════════════════════════════ <br/>
-   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦ <br/>
+   ✦ •  · ˖  ° .  ✦ Version française  ✦  ˖ •  · ✦ <br/>
  ═══════════════════════════════════════════════════ <br/>
 
 # Ambroise Donnet
@@ -103,6 +103,119 @@ Les tutos YouTube à 2h du mat font partie de la méthode. ✔️
 Je cherche des **gens passionnés de dev jeu vidéo**, un **mentor**, ou simplement des échanges sur le frontend, Unity, ou le game design.
 
 > *Si tu lis ça et que tu as envie de créer quelque chose ensemble — envoie un message.*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AmbroiseDonnet-181717?style=for-the-badge&logo=github)](https://github.com/AmbroiseDonnet)
+
+</div>
+
+---
+
+<div align="center">
+
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦  English Version   ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
+
+# Ambroise Donnet
+
+*Frontend Developer · Apprentice Code Sorcerer · 21 · Lille, France*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=9B72AA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Game+Dev+Dreamer;Notorious+Perfectionist;R.E.A.D.A.B.I.L.I.T.Y+above+all)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  My workshop  ✩°｡⋆
+```
+
+</div>
+
+### 🪄 Spells I've mastered
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  What I'm brewing right now  ✩°｡⋆ 
+```
+
+</div>
+
+### 📜 JDR Grimoire — *Spell in progress*
+
+> *A web tool to create fully customized tabletop RPG character sheets.*  
+> Because every adventurer deserves a sheet that looks like them. 🎲
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  The grand vision  ✩°｡⋆ 
+```
+
+</div>
+
+### 🌙 The Big Project
+
+A video game where **you become whatever you want**.  
+No forced class. No set path. Just you, and the world.  
+*(Living rent-free in my head for a while now.)*
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  My philosophy  ✩°｡⋆ 
+```
+
+</div>
+
+### 🕯️ Code according to me
+
+```
+« R E A D A B I L I T Y  is not optional. »
+         — me, reading unreadable code
+```
+
+I'm a **perfectionist**. I test, I break, I understand.  
+I learn by doing — and by talking to people who know their stuff.  
+Late-night YouTube tutorials are part of the method. ✔️
+
+<div align="center">
+
+```
+  ⋆｡°✩  Find me  ✩°｡⋆ 
+```
+
+</div>
+
+### 🔮 Want to collaborate?
+
+I'm looking for **people passionate about game dev**, a **mentor**, or just good conversations about frontend, Unity, or game design.
+
+> *If you're reading this and feel like building something together — send a message.*
 
 <div align="center">
 

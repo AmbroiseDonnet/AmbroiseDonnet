@@ -2,9 +2,9 @@
 
 <div align="center">
 
- ═══════════════════════════════════════════════════
-   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦
- ═══════════════════════════════════════════════════
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
 
 # Ambroise Donnet
 
@@ -43,8 +43,9 @@
 
 <div align="center">
 
-  ⋆｡°✩  Ce que je mijote en ce moment  ✩°｡⋆
-
+```
+  ⋆｡°✩  Ce que je mijote en ce moment  ✩°｡⋆ 
+```
 </div>
 
 ### 📜 Grimoire JDR — *En cours d'incantation*
@@ -55,8 +56,10 @@
 ---
 
 <div align="center">
-
-  ⋆｡°✩  La grande vision  ✩°｡⋆
+ 
+```
+  ⋆｡°✩  La grande vision  ✩°｡⋆ 
+```
 
 </div>
 
@@ -70,14 +73,16 @@ Pas de classe imposée. Pas de chemin tracé. Juste toi, et le monde.
 
 <div align="center">
 
-  ⋆｡°✩  Ma philosophie  ✩°｡⋆
+```
+  ⋆｡°✩  Ma philosophie  ✩°｡⋆ 
+```
 
 </div>
 
 ### 🕯️ Le Code selon Ambroise
 
-« La  L I S I B I L I T É  n'est pas une option. »
-         — moi, en relisant du code illisible
+« La  L I S I B I L I T É  n'est pas une option. » <br/>
+         — moi, en relisant du code illisible <br/>
 
 Je suis un **perfectionniste**. Je teste, je casse, je comprends.
 J'apprends en faisant — et en discutant avec les gens qui savent.
@@ -86,7 +91,9 @@ Les tutos YouTube à 2h du mat font partie de la méthode. ✔️
 
 <div align="center">
 
-  ⋆｡°✩  Me trouver  ✩°｡⋆
+```
+  ⋆｡°✩  Me trouver  ✩°｡⋆ 
+```
 
 </div>
 
@@ -106,9 +113,9 @@ Je cherche des **gens passionnés de dev jeu vidéo**, un **mentor**, ou simplem
 
 <div align="center">
 
- ═══════════════════════════════════════════════════
-   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦
- ═══════════════════════════════════════════════════
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
 
 *Made with ♥ and a suspicious amount of perfectionism — Lille, France*
 

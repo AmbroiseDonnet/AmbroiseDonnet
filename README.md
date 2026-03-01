@@ -79,7 +79,7 @@ Pas de classe imposée. Pas de chemin tracé. Juste toi, et le monde.
 
 </div>
 
-### 🕯️ Le Code selon Ambroise
+### 🕯️ Le Code selon moi même
 
 ```
 « La  L I S I B I L I T É  n'est pas une option. »

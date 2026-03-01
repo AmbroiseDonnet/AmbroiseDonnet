@@ -81,9 +81,10 @@ Pas de classe imposée. Pas de chemin tracé. Juste toi, et le monde.
 
 ### 🕯️ Le Code selon Ambroise
 
-« La  L I S I B I L I T É  n'est pas une option. » <br/>
-         — moi, en relisant du code illisible <br/>
-
+```
+« La  L I S I B I L I T É  n'est pas une option. »
+         — moi, en relisant du code illisible
+```
 Je suis un **perfectionniste**. Je teste, je casse, je comprends.
 J'apprends en faisant — et en discutant avec les gens qui savent.
 Les tutos YouTube à 2h du mat font partie de la méthode. ✔️

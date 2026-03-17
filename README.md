@@ -48,10 +48,17 @@
 ```
 </div>
 
-### 📜 Grimoire JDR — *En cours d'incantation*
+### Les projets 
+
+#### 📜 Grimoire JDR — *En cours d'incantation*
 
 > *Un outil web pour créer sa fiche de personnage de jeu de rôle de manière ultra-personnalisée.*
-> Parce que chaque aventurier mérite une fiche à son image. 🎲
+> Parce que chaque aventurier.ères mérite une fiche à son image. 🎲
+
+#### 📜 BacklogYourGame — *En cours d'incantation*
+
+> *Un outil local pour stocker l'avancé dans ses jeux avec des filtres personnalisés.*
+> Parce que chaque sorcier.ères mérite de suivre leurs sortilèges couronnées de succès. 📖
 
 ---
 

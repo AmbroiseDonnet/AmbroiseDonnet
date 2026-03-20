@@ -1,45 +1,249 @@
-# README - Ambroise Donnet
+<!-- ✨ Bienvenue dans mon grimoire numérique ✨ -->
 
-## Profile
+<div align="center">
 
-I'm passionate about game development and technology. My interest lies in creating immersive experiences that captivate users and push the boundaries of interactive storytelling.
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦ Version française  ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
 
-### Skills
-- Strong proficiency in C++ and C#
-- Expertise in game engines like Unity and Unreal Engine
-- Experience with artificial intelligence in games
-- Knowledge of Unity 3D and Unreal Engine
-- Proficient in version control with Git
+# Ambroise Donnet
 
-### Philosophy
-I believe in the importance of collaboration and continuous learning. Working with diverse teams fosters creativity and innovation. I aim to contribute positively to any team I am part of.
+*Développeur Frontend · Apprenti Sorcier du Code · 21 ans · Lille*
 
-### Collaboration
-Effective collaboration is crucial in our industry. I strive to be communicative, open-minded, and supportive within teams to achieve our common goals. I'm always eager to welcome feedback and improve the project.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=9B72AA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Game+Dev+Dreamer;Perfectionniste+notoire;La+LI.SI.BI.LI.TE+avant+tout)](https://git.io/typing-svg)
 
-### BacklogYourGame Project
-My project, BacklogYourGame, showcases my skills in game development, focusing on creating an intuitive task management tool for game enthusiasts.
+</div>
 
 ---
 
-## Français
+<div align="center">
 
-### Profil
+```
+  ⋆｡°✩  Mon atelier  ✩°｡⋆
+```
 
-Je suis passionné par le développement de jeux et la technologie. Mon intérêt réside dans la création d'expériences immersives qui captivent les utilisateurs et repoussent les limites de la narration interactive.
+</div>
 
-### Compétences
-- Solide maîtrise de C++ et C#
-- Expertise dans des moteurs de jeu tels que Unity et Unreal Engine
-- Expérience avec l'intelligence artificielle dans les jeux
-- Connaissance de Unity 3D et Unreal Engine
-- Compétent en contrôle de version avec Git
+### 🪄 Les sorts que je maîtrise
 
-### Philosophie
-Je crois en l'importance de la collaboration et de l'apprentissage continu. Travailler avec des équipes diverses favorise la créativité et l'innovation. Je vise à contribuer positivement à toute équipe à laquelle je fais partie.
+<div align="center">
 
-### Collaboration
-Une collaboration efficace est cruciale dans notre secteur. Je m'efforce d'être communicatif, ouvert d'esprit et solidaire au sein des équipes pour atteindre nos objectifs communs. Je suis toujours désireux d'accueillir des retours et d'améliorer le projet.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### Projet BacklogYourGame
-Mon projet, BacklogYourGame, met en valeur mes compétences en développement de jeux, en mettant l'accent sur la création d'un outil de gestion des tâches intuitif pour les passionnés de jeux.
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  Ce que je mijote en ce moment  ✩°｡⋆ 
+```
+</div>
+
+### Les projets 
+
+#### 📜 Grimoire JDR — *En cours d'incantation*
+
+> *Un outil web pour créer sa fiche de personnage de jeu de rôle de manière ultra-personnalisée.*
+> Parce que chaque aventurier.ères mérite une fiche à son image. 🎲
+
+#### 📜 BacklogYourGame — *En cours d'incantation*
+
+> *Un outil local pour stocker l'avancé dans ses jeux avec des filtres personnalisés.*
+> Parce que chaque sorcier.ères mérite de suivre leurs sortilèges couronnées de succès. 📖
+
+---
+
+<div align="center">
+ 
+```
+  ⋆｡°✩  La grande vision  ✩°｡⋆ 
+```
+
+</div>
+
+### 🌙 Le Grand Projet
+
+Un jeu vidéo où **tu deviens ce que tu veux**.
+Pas de classe imposée. Pas de chemin tracé. Juste toi, et le monde.
+*(En construction dans ma tête depuis... un bon moment.)*
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  Ma philosophie  ✩°｡⋆ 
+```
+
+</div>
+
+### 🕯️ Le Code selon moi même
+
+```
+« La  L I S I B I L I T É  n'est pas une option. »
+         — moi, en relisant du code illisible
+```
+Je suis un **perfectionniste**. Je teste, je casse, je comprends.
+J'apprends en faisant — et en discutant avec les gens qui savent.
+Les tutos YouTube à 2h du mat font partie de la méthode. ✔️
+
+
+<div align="center">
+
+```
+  ⋆｡°✩  Me trouver  ✩°｡⋆ 
+```
+
+</div>
+
+### 🔮 Envie de collaborer ?
+
+Je cherche des **gens passionnés de dev jeu vidéo**, un **mentor**, ou simplement des échanges sur le frontend, Unity, ou le game design.
+
+> *Si tu lis ça et que tu as envie de créer quelque chose ensemble — envoie un message.*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AmbroiseDonnet-181717?style=for-the-badge&logo=github)](https://github.com/AmbroiseDonnet)
+
+</div>
+
+---
+
+<div align="center">
+
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦  English Version   ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
+
+# Ambroise Donnet
+
+*Frontend Developer · Apprentice Code Sorcerer · 21 · Lille, France*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=9B72AA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Game+Dev+Dreamer;Notorious+Perfectionist;R.E.A.D.A.B.I.L.I.T.Y+above+all)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  My workshop  ✩°｡⋆
+```
+
+</div>
+
+### 🪄 Spells I've mastered
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  What I'm brewing right now  ✩°｡⋆ 
+```
+
+</div>
+
+### Projects: 
+
+#### 📜 Grimoire JDR — *Spell in progress*
+
+> *A web tool to create fully customized tabletop RPG character sheets.*
+> Because every adventurer deserves a sheet that looks like them. 🎲
+
+#### 📜 BacklogYourGame — *Spell in progress*
+
+> *A local tool to track your progress across your games, with custom filters.*
+> Because every witch & wizard deserves to log their crowned victories. 📖
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  The grand vision  ✩°｡⋆ 
+```
+
+</div>
+
+### 🌙 The Big Project
+
+A video game where **you become whatever you want**.  
+No forced class. No set path. Just you, and the world.  
+*(Living rent-free in my head for a while now.)*
+
+---
+
+<div align="center">
+
+```
+  ⋆｡°✩  My philosophy  ✩°｡⋆ 
+```
+
+</div>
+
+### 🕯️ Code according to me
+
+```
+« R E A D A B I L I T Y  is not optional. »
+         — me, reading unreadable code
+```
+
+I'm a **perfectionist**. I test, I break, I understand.  
+I learn by doing — and by talking to people who know their stuff.  
+Late-night YouTube tutorials are part of the method. ✔️
+
+<div align="center">
+
+```
+  ⋆｡°✩  Find me  ✩°｡⋆ 
+```
+
+</div>
+
+### 🔮 Want to collaborate?
+
+I'm looking for **people passionate about game dev**, a **mentor**, or just good conversations about frontend, Unity, or game design.
+
+> *If you're reading this and feel like building something together — send a message.*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AmbroiseDonnet-181717?style=for-the-badge&logo=github)](https://github.com/AmbroiseDonnet)
+
+</div>
+
+---
+
+<div align="center">
+
+ ═══════════════════════════════════════════════════ <br/>
+   ✦ •  · ˖  ° .  ✦  ˚  · .  °  ✦  ˖ •  · ✦ <br/>
+ ═══════════════════════════════════════════════════ <br/>
+
+*Made with ♥ and a suspicious amount of perfectionism — Lille, France*
+
+</div>
